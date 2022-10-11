@@ -9,7 +9,7 @@ The end goal is to develop a model that will be capable of detecting objects (in
 When dealing with images, it will be important to consider the appropriate preprocessing methods that will help your model to read the images, your choice in model for the object detection, and the appropriate tuning of hyperparameters inherent to your model.
 
 Note: This project is done for TAMU Datathon Baker Hughes Challenge: Object Detection in Advanced Manufacturing. 
-The details are given here: https://tamudatathon.com/challenges/docs/baker_hughes2
+All the details are given here: https://tamudatathon.com/challenges/docs/baker_hughes2
 
 Dataset Link: https://public.roboflow.com/classification/flowers_classification
 
